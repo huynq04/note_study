@@ -10,6 +10,8 @@
 
 ## Merge code ở nhánh master
 
+### Đây là cách merge trên local, ngoài ra có thể thao tác trực tiếp trên gitHub
+
 1. git checkout master
 
 - chuyển sang nhánh master
