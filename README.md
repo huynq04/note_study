@@ -14,15 +14,15 @@
 
 1. git checkout master
 
-- chuyển sang nhánh master
+	- chuyển sang nhánh master
 
 2. git merge --no-ff new-branch
 
-- merge code từ nhánh new-branch vào nhánh master
+	- merge code từ nhánh new-branch vào nhánh master
 
 3. git push origin master
 
-- đẩy code của nhánh master lên github
+	- đẩy code của nhánh master lên github
 
 # Config git local machine
 
